@@ -28,7 +28,7 @@ Windows API의 저수준 기능들을 캡슐화하여 **더블 버퍼링(Double 
 이 프로젝트는 정적 라이브러리 혹은 소스 코드 형태로 포함하여 사용할 수 있습니다. 아래 파일들을 프로젝트 디렉토리에 포함시키세요.
 
 *  `YSConsoleGameEngineLib.h`: 필수 의존성 헤더
-* `YSConsoleGameEngineLib.cpp`: 엔진 구현부 (소스 코드)
+* `YSConsoleGameEngineLib.lib`: 엔진 구현부 (소스 코드)
 
 ---
 
